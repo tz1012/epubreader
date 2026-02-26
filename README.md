@@ -15,13 +15,14 @@
 
 ## 다운로드
 
-권장: GitHub Releases에서 다운로드
+릴리즈 자산 직링크(고정):
 
-1. 저장소의 `Releases` 탭으로 이동
-2. 최신 릴리즈에서 `EpubReader-win-x64-portable.zip` 다운로드
+- `EpubReader-win-x64-portable.zip`  
+  https://github.com/tz1012/epubreader/releases/download/v1.0.0-release-only/EpubReader-win-x64-portable.zip
 
-예시 URL 형식:
-`https://github.com/<OWNER>/<REPO>/releases/latest`
+릴리즈 페이지:
+
+- https://github.com/tz1012/epubreader/releases/tag/v1.0.0-release-only
 
 ## 설치/실행 방법
 
