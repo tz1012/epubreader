@@ -4,13 +4,13 @@
 
 ## 스크린샷 (책 미오픈 상태)
 
-### Light
+### Light 테마
 ![Light](./screenshots/theme-light.png)
 
-### Sepia
+### Sepia 테마
 ![Sepia](./screenshots/theme-sepia.png)
 
-### Dark
+### Dark 테마
 ![Dark](./screenshots/theme-dark.png)
 
 ## 다운로드
